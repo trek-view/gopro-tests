@@ -10,7 +10,8 @@ We build software that processes GoPro video and image files. To test this softw
 
 ## Download test cases
 
-https://docs.google.com/spreadsheets/d/1CqShexm4B-PdvBT-MG5WU0706FTftE1PktYAYyF3peA/edit?usp=sharing
+* Library of test cases: https://docs.google.com/spreadsheets/d/1CqShexm4B-PdvBT-MG5WU0706FTftE1PktYAYyF3peA/edit?usp=sharing
+* Actual test case files: https://drive.google.com/drive/folders/10hiCdNWuk7OPdVAQ3LzYc94RqoJX1-cN?usp=sharing
 
 ## Cameras currently covered
 
